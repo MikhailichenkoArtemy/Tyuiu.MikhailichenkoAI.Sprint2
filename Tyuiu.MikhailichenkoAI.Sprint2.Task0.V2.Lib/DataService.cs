@@ -15,7 +15,7 @@ namespace Tyuiu.MikhailichenkoAI.Sprint2.Task0.V2.Lib
             res[4] = x <= y - 1;  
             res[5] = x >= y;      
 
-            return res;
+            return res; 
         }
     }
 }

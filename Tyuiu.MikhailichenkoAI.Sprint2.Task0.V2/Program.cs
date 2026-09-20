@@ -25,7 +25,7 @@ namespace Tyuiu.MikhailichenkoAI.Sprint2.Task0.V2
             Console.WriteLine("***************************************************************************");
 
             int x = 123;
-            int y = 123;
+            int y = 123; 
 
             Console.WriteLine("X = " + x);
             Console.WriteLine("Y = " + y);

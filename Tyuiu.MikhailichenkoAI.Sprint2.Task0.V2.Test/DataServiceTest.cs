@@ -18,7 +18,7 @@ namespace Tyuiu.MikhailichenkoAI.Sprint2.Task0.V2.Test
 
             bool[] wait = new bool[6] { false, true, false, true, false, true };
 
-            CollectionAssert.AreEqual(wait, res);
+            CollectionAssert.AreEqual(wait, res); 
         }
     }
 }
