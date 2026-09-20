@@ -4,4 +4,14 @@
     <Project Path="Tyuiu.MikhailichenkoAI.Sprint2.Task0.V2.Test/Tyuiu.MikhailichenkoAI.Sprint2.Task0.V2.Test.csproj" />
     <Project Path="Tyuiu.MikhailichenkoAI.Sprint2.Task0.V2/Tyuiu.MikhailichenkoAI.Sprint2.Task0.V2.csproj" />
   </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.MikhailichenkoAI.Sprint2.Task1.V14.Lib/Tyuiu.MikhailichenkoAI.Sprint2.Task1.V14.Lib.csproj" />
+    <Project Path="Tyuiu.MikhailichenkoAI.Sprint2.Task1.V14.Test/Tyuiu.MikhailichenkoAI.Sprint2.Task1.V14.Test.csproj" />
+    <Project Path="Tyuiu.MikhailichenkoAI.Sprint2.Task1.V14/Tyuiu.MikhailichenkoAI.Sprint2.Task1.V14.csproj" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.MikhailichenkoAI.Sprint2.Task2.V24.Lib/Tyuiu.MikhailichenkoAI.Sprint2.Task2.V24.Lib.csproj" />
+    <Project Path="Tyuiu.MikhailichenkoAI.Sprint2.Task2.V24.Test/Tyuiu.MikhailichenkoAI.Sprint2.Task2.V24.Test.csproj" />
+    <Project Path="Tyuiu.MikhailichenkoAI.Sprint2.Task2.V24/Tyuiu.MikhailichenkoAI.Sprint2.Task2.V24.csproj" />
+  </Folder>
 </Solution>
